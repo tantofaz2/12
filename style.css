@@ -13,7 +13,7 @@
 }
 
 .cabecalho-imagem{
-width: 20%;
+width: 25%;
 }
 
 .cabecalho-lista-item{
@@ -23,7 +23,7 @@ width: 20%;
 }
 
 .escola-imagem{
-    width: 25%;
+    width: 50%;
 }
 
 .escola{
@@ -39,4 +39,11 @@ width: 20%;
 }
 .escola-titulo{
     padding: 24px 0;
+}
+
+.img2 {
+    width: 20%;
+}
+.img3 {
+    width: 20%;
 }
